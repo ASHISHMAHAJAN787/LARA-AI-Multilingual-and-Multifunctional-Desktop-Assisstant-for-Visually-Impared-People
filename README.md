@@ -20,7 +20,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
-  <a href="#architecture">architecture</a> •
+  <a href="#architecture">architecture</a> 
 </p>
 
 ---
