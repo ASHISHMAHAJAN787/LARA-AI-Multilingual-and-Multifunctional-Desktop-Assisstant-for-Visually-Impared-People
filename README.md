@@ -20,8 +20,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+  <a href="#architecture">architecture</a> •
 </p>
 
 ---
@@ -66,11 +65,11 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
 
 ## Voice commands examples:
 
-"What's the weather in Paris?"
-"Tell me about quantum computing"
-"Open Google Chrome"
-"Recognize this object"
-"Emergency help!"
+- "What's the weather in Paris?"
+- "Tell me about quantum computing"
+- "Open Google Chrome"
+- "Recognize this object"
+- "Emergency help!"
 
 ## Features
 - **Core Capabilities**<br>
@@ -95,6 +94,9 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
   c.Wikipedia summaries<br>
   d.Email sending<br>
   e.Math problem solving<br>
+  
+## Architecture
+![image](https://github.com/user-attachments/assets/bf77c618-7a99-4c55-9064-41596ade6f5c)
 
 ## Acknowledgments<br>
 - Google for Speech Recognition and Gemini APIs<br>
