@@ -1,5 +1,5 @@
 <a href="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People">
-  <img src="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People/blob/main/logo.jpg" alt="LARA AI Assistant">
+  <img src="Proj/www/logo.jpg" alt="LARA AI Assistant">
 </a>
 
 <h4 align="center">Multilingual AI Voice Assistant with Computer Vision and Emergency Features</h4>
