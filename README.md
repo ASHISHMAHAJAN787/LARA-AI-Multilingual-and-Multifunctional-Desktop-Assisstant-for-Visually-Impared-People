@@ -1,5 +1,5 @@
 <a href="https://github.com/your-username/your-repo">
-  <img src="https://github.com/your-username/your-repo/blob/main/path/to/logo.jpg" alt="AI Voice Assistant">
+  <img src="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People/blob/main/Proj/www/logo.jpg" alt="AI Voice Assistant">
 </a>
 
 <h4 align="center">Multilingual AI Voice Assistant with Computer Vision and Emergency Features</h4>
