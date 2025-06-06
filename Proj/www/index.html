@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LARA - Virtual Assistant</title>
+    <!-- For advanced animations -->
+
+
+
+    <!-- CSS Link -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    
+    <!-- Lottie Animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.4/lottie.min.js"></script>
+</head>
+<body>
+    <div id="button-container" class="button-group">
+        <button id="start-btn" class="btn pulse" onclick="startAssistant()">
+            <i class="fas fa-microphone"></i> Start Assistant
+        </button>
+        <button id="end-btn" class="btn shake" onclick="endAssistant()">
+            <i class="fas fa-power-off"></i> End Assistant
+        </button>
+    </div>
+
+    <section class="main">
+        <div class="image-container">
+            <div class="image animate__animated animate__pulse" id="assistant-avatar">
+                <img src="gif.gif" alt="LARA Avatar" class="avatar-img">
+                <div id="lottie-animation" class="lottie-anim"></div>
+            </div>
+            <h1 class="animate__animated animate__fadeIn">L A R A</h1>
+            <p class="tagline">A Multilingual Voice-Activated AI Assistant.</p>
+        </div>
+        
+        <!-- Enhanced Animation Container -->
+        <div id="animation-container">
+            <div id="listening-animation" class="status-animation hidden">
+                <div class="sound-wave">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+                <span class="status-text">Listening...</span>
+            </div>
+            
+            <div id="thinking-animation" class="status-animation hidden">
+                <div class="thinking-dots">
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                </div>
+                <span class="status-text">Processing...</span>
+            </div>
+            
+            <div id="responding-animation" class="status-animation hidden">
+                <div class="typing-indicator">
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                </div>
+                <span class="status-text">Responding...</span>
+            </div>
+        </div>
+
+        <!-- Enhanced Response Box -->
+        <div id="response-box" class="animate__animated animate__fadeInUp">
+            <div class="response-header">
+                <i class="fas fa-comment-dots"></i>
+                <h3>Assistant Responses</h3>
+            </div>
+            <div id="assistant-responses" class="response-content">
+                <div class="welcome-message">
+
+                </div>
+            </div>
+            <div class="response-footer">
+                <div class="status-indicator">
+                    <span id="connection-status" class="status-offline">
+                        <i class="fas fa-circle"></i> Offline
+                    </span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Floating Action Button -->
+    <div id="fab" class="fab animate__animated animate__bounceIn">
+        <i class="fas fa-robot"></i>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast hidden">
+        <div class="toast-content">
+            <span id="toast-message"></span>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="/eel.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+</body>
+</html>
+
+
+
+
