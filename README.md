@@ -54,7 +54,7 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 2.Install dependencies:
-    pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 3.Additional setup:<br>
 - Download YOLOv5 weights
@@ -73,27 +73,27 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
 
 ## Features
 - **Core Capabilities**<br>
-  a.Voice Interaction: Natural language processing with intent recognition <br>
-  b.Multilingual Support: Speak and understand 9 languages <br>
-  c.Object Recognition: Identify objects using computer vision <br>
+  a. Voice Interaction: Natural language processing with intent recognition <br>
+  b. Multilingual Support: Speak and understand 9 languages <br>
+  c. Object Recognition: Identify objects using computer vision <br>
 
 - **Emergency Services** <br>
-  a.GPS location tracking<br> 
-  b.SOS alerts via WhatsApp<br>
-  c.Automatic emergency message with location<br>
+  a. GPS location tracking<br> 
+  b. SOS alerts via WhatsApp<br>
+  c. Automatic emergency message with location<br>
 
 - **System Integration**<br>
-  a.Application control<br>
-  b.Window management<br>
-  c.Screenshot capture<br>
-  d.Internet speed test<br>
+  a. Application control<br>
+  b. Window management<br>
+  c. Screenshot capture<br>
+  d. Internet speed test<br>
 
 - **API Integrations**<br>
-  a.Weather forecasts<br>
-  b.News headlines<br>
-  c.Wikipedia summaries<br>
-  d.Email sending<br>
-  e.Math problem solving<br>
+  a. Weather forecasts<br>
+  b. News headlines<br>
+  c. Wikipedia summaries<br>
+  d. Email sending<br>
+  e. Math problem solving<br>
   
 ## Architecture
 ![image](https://github.com/user-attachments/assets/bf77c618-7a99-4c55-9064-41596ade6f5c)
