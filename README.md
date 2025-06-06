@@ -71,7 +71,7 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
 
 ## Features
 - **Core Capabilities**
-  a.-Voice Interaction: Natural language processing with intent recognition
+  a.Voice Interaction: Natural language processing with intent recognition /n
   b.Multilingual Support: Speak and understand 9 languages
   c.Object Recognition: Identify objects using computer vision
 
