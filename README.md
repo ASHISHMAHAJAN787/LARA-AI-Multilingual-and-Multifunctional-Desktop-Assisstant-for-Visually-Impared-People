@@ -29,7 +29,7 @@
 
 AI Voice Assistant is a comprehensive virtual assistant that combines voice recognition, natural language processing, computer vision, and emergency features. Built with Python, it supports multiple languages and integrates with various APIs for enhanced functionality.
 
-## Key Features
+## Specifications
 
 - **Multilingual Support**: English, Hindi, Spanish, French, Punjabi, Tamil, Telugu, Gujarati, and Marathi
 - **Computer Vision**: Real-time object recognition using YOLOv5
@@ -45,7 +45,6 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
 - [Usage](#usage)
 - [Features](#features)
 - [Architecture](#architecture)
-- [Contributing](#contributing)
 
 ## Installation
 
