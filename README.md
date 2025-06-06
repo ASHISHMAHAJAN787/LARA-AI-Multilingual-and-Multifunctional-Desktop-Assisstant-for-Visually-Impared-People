@@ -97,6 +97,6 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
   e.Math problem solving<br>
 
 ## Acknowledgments<br>
-  a.Google for Speech Recognition and Gemini APIs<br>
-  b.Ultralytics for YOLOv5<br>
-  c.All open-source libraries used in this project  <br>
+- Google for Speech Recognition and Gemini APIs<br>
+- Ultralytics for YOLOv5<br>
+- All open-source libraries used in this project  <br>
