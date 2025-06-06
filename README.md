@@ -70,23 +70,23 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
 "Emergency help!"
 
 ## Features
-- 1.Core Capabilities
-  a.Voice Interaction: Natural language processing with intent recognition
+- **Core Capabilities**
+  a.-Voice Interaction: Natural language processing with intent recognition
   b.Multilingual Support: Speak and understand 9 languages
   c.Object Recognition: Identify objects using computer vision
 
-- 2.Emergency Services
+- **Emergency Services**
   a.GPS location tracking
   b.SOS alerts via WhatsApp
   c.Automatic emergency message with location
 
-- 3.System Integration
+- **System Integration**
   a.Application control
   b.Window management
   c.Screenshot capture
   d.Internet speed test
 
-- 4.API Integrations
+- **API Integrations**
   a.Weather forecasts
   b.News headlines
   c.Wikipedia summaries
