@@ -70,30 +70,30 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
 "Emergency help!"
 
 ## Features
-- **Core Capabilities**
+- **Core Capabilities**<br>
   a.Voice Interaction: Natural language processing with intent recognition <br>
-  b.Multilingual Support: Speak and understand 9 languages
-  c.Object Recognition: Identify objects using computer vision
+  b.Multilingual Support: Speak and understand 9 languages <br>
+  c.Object Recognition: Identify objects using computer vision <br>
 
-- **Emergency Services**
-  a.GPS location tracking
-  b.SOS alerts via WhatsApp
-  c.Automatic emergency message with location
+- **Emergency Services** <br>
+  a.GPS location tracking<br> 
+  b.SOS alerts via WhatsApp<br>
+  c.Automatic emergency message with location<br>
 
-- **System Integration**
-  a.Application control
-  b.Window management
-  c.Screenshot capture
-  d.Internet speed test
+- **System Integration**<br>
+  a.Application control<br>
+  b.Window management<br>
+  c.Screenshot capture<br>
+  d.Internet speed test<br>
 
-- **API Integrations**
-  a.Weather forecasts
-  b.News headlines
-  c.Wikipedia summaries
-  d.Email sending
-  e.Math problem solving
+- **API Integrations**<br>
+  a.Weather forecasts<br>
+  b.News headlines<br>
+  c.Wikipedia summaries<br>
+  d.Email sending<br>
+  e.Math problem solving<br>
 
-## Acknowledgments
-  a.Google for Speech Recognition and Gemini APIs
-  b.Ultralytics for YOLOv5
-  c.All open-source libraries used in this project  
+## Acknowledgments<br>
+  a.Google for Speech Recognition and Gemini APIs<br>
+  b.Ultralytics for YOLOv5<br>
+  c.All open-source libraries used in this project  <br>
