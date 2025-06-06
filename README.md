@@ -55,14 +55,14 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
 2.Install dependencies:
-    ```
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3.Additional setup:
-    ```
-  a.Download YOLOv5 weights
-  b.Configure API keys in config.py
-  c.Set up Google Gemini API
+Download YOLOv5 weights
+
+Configure API keys in config.py
+
+Set up Google Gemini API
 
 ## Voice commands examples:
 
