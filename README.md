@@ -57,7 +57,7 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
 2.Install dependencies:<br>
     ```bash
    pip install -r requirements.txt
-3.Additional setup:
+3.Additional setup:<br>
     ```bash
   a.Download YOLOv5 weights
   b.Configure API keys in config.py
