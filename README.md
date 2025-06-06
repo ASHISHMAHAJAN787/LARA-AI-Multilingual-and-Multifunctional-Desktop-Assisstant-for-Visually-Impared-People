@@ -1,19 +1,19 @@
-<a href="https://github.com/your-username/your-repo">
-  <img src="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People/blob/main/Proj/www/logo.jpg" alt="AI Voice Assistant">
+<a href="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People">
+  <img src="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People/blob/main/logo.jpg" alt="LARA AI Assistant">
 </a>
 
 <h4 align="center">Multilingual AI Voice Assistant with Computer Vision and Emergency Features</h4>
 <p align="center">
-    <a href="https://github.com/your-username/your-repo/commits/main">
-    <img src="https://img.shields.io/github/last-commit/your-username/your-repo.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People/commits/main">
+    <img src="https://img.shields.io/github/last-commit/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit"></a>
-    <a href="https://github.com/your-username/your-repo/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/your-username/your-repo?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests"></a>
-    <a href="https://github.com/your-username/your-repo/pulls?q=is%3Apr+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/your-username/your-repo?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People/pulls?q=is%3Apr+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-pr-closed-raw/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People?style=flat-square&logo=github&logoColor=white"
          alt="Closed pull requests"></a>
-    <img src="https://img.shields.io/github/repo-size/your-username/your-repo?style=flat-square"
+    <img src="https://img.shields.io/github/repo-size/ASHISHMAHAJAN787/LARA-AI-Multilingual-and-Multifunctional-Desktop-Assisstant-for-Visually-Impared-People?style=flat-square"
          alt="Repository size">
 </p>
 <p align="center">
