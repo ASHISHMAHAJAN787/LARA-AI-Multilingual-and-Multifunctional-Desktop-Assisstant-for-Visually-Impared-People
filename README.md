@@ -57,12 +57,12 @@ AI Voice Assistant is a comprehensive virtual assistant that combines voice reco
 2.Install dependencies:
     pip install -r requirements.txt
 
-3.Additional setup:
-Download YOLOv5 weights
+3.Additional setup:<br>
+- Download YOLOv5 weights
 
-Configure API keys in config.py
+- Configure API keys in config.py
 
-Set up Google Gemini API
+- Set up Google Gemini API
 
 ## Voice commands examples:
 
